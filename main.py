@@ -21,3 +21,5 @@ is_true = True
 is_false = False
 print(type(is_true))
 print(type(is_false))
+import numpy as np 
+print(np.__version__)
